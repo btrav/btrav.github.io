@@ -4,4 +4,4 @@
 
 layout: home
 ---
-## Marketing strategy, some analytics, a little design, a dash of development.
+## Seasoned marketing strategy, apt analytics, demonstrable design, and a dash of development.
