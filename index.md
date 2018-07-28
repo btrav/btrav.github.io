@@ -1,7 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+redirect_from:
+  - /project/why-do-cats-have-9-lives/
 ---
-## Seasoned marketing strategy, apt analytics, demonstrable design, and a dash of development.
+
+## Strategy. Marketing. Analytics. Design.
+
+[Sometimes I write.]({{ site.url }}/blog)

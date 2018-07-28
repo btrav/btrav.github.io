@@ -4,15 +4,15 @@ title:  "Taking back your life – “Manage Your Day-to-Day”"
 date:   2014-08-18
 categories:
 permalink: blog/taking-back-you-life
+redirect_from:
+  - /taking-back-life-manage-day-day/
 ---
 
-I recently read Manage Your Day-to-Day created by the good folks  at Behance. Check it out on Amazon [here](http://www.amazon.com/Manage-Your-Day---Day-Creative/dp/1477800670/). It was a welcome recommendation from one of my colleagues, and one of the few books I’ve actually felt compelled to take notes on based on the content. Below are my notes on the book, the passages and ideas that really hit a chord with me. Following my notes are personal recommendations for _me_, though I thought it could potentially help readers, as well:
+I recently read Manage Your Day-to-Day created by the good folks at Behance. Check it out on Amazon [here](http://www.amazon.com/Manage-Your-Day---Day-Creative/dp/1477800670/). It was a welcome recommendation from one of my colleagues, and one of the few books I’ve actually felt compelled to take notes on. Below are those notes along with the passages and ideas that really hit a chord with me. Following my notes are personal recommendations for _me_, though I thought it could potentially help readers, as well:
 
-**Manage ****your**** Day-to-Day**
+**Manage your Day-to-Day**
 
 _Build your routine, find your focus, and sharpen your creative mind._
-
-_ _
 
 **Forword**
 
