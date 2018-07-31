@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education in India"
+title:  "Education in India Infographics"
 date:   2014-07-24
 categories:
 permalink: blog/india-education

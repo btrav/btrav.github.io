@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Distracted Driving"
+title:  "Distracted Driving Infographic"
 date:   2013-05-03
 categories:
 permalink: blog/distracted-driving
