@@ -3,7 +3,7 @@ layout: post
 title:  "Taking back your life – “Manage Your Day-to-Day”"
 date:   2014-08-18
 categories:
-permalink: blog/taking-back-you-life
+permalink: blog/taking-back-your-life
 redirect_from:
   - /taking-back-life-manage-day-day/
 ---

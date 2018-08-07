@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "Home"
 redirect_from:
   - /project/why-do-cats-have-9-lives/
 ---
