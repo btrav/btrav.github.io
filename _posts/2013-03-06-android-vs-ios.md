@@ -4,6 +4,8 @@ title:  "Android vs. iOS: User Differences Every Developer Should Know"
 date:   2013-03-06
 categories:
 permalink: blog/android-vs-ios
+redirect_from:
+  - /project/android-vs-ios-infographic/
 ---
 
 With Android and iPhone now combining for nearly 90 percent of the U.S. smartphone market, many app developers are concentrating their efforts on serving the majority of smartphone users through these two platforms. But there is an inherent tension when resources are limited and developers must choose one over the other, or decide which platform to develop for first. As a result, every app developer should be armed with some basic facts around the differences between Android and iPhone users when making these decisions.
