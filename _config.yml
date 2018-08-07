@@ -27,6 +27,8 @@ timezone: America/Denver
 disqus:
   shortname: benjamintravis
 
+url: https://benjamintravis.com
+
 # Build settings
 markdown: kramdown
 theme: minima
