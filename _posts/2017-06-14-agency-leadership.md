@@ -16,4 +16,4 @@ Fortunately, we can guide ourselves in the right direction by experimenting resp
 
 Enjoy this collection of brilliant thinking within the Agency Leadership section of _The SoDA Report_!
 
-_This article was originally published in the [2017 SoDA Report](http://www.sodareport.com/agency-leadership/agency-leadership-intro/)._
+_This article was originally published in the [2017 SoDA Report](http://sodaspeaks.com/2017/06/soda-report-2017/)._
