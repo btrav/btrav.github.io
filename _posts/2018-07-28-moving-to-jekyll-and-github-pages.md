@@ -79,6 +79,8 @@ Similar to the blog content, I used Wordpress for comments. During this migratio
 
 After registering my website with Disqus, I added my shortname to the `config.yml` file. I had to go through a bit of troubleshooting to figure out that I also [needed to set the url property in `config.yml`](https://github.com/jekyll/minima/issues/104).
 
+_Note that since writing this, I've migrated away from Disqus._
+
 ## Deciding on Asset Storage
 
 I initially thought I'd keep my assets (any videos, images, etc.) stored in [Amazon S3 buckets](https://aws.amazon.com/s3/), but after talking with a couple of developers, that seemed like far too heavy a solution for what I needed. I ended up [optimizing images](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization) (e.g. no images greater than 1MB, even infographics) and adding them directly to my [GitHub repo](https://help.github.com/articles/about-repositories/).
