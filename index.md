@@ -8,3 +8,4 @@ redirect_from:
 ## Strategy. Marketing. Analytics. Design.
 
 [Sometimes I write.]({{ site.url }}/blog)
+Currently working at [Bonusly](https://bonus.ly/).
