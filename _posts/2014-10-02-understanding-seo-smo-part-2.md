@@ -23,7 +23,7 @@ Pique the interest of your audience with the content you create (and with your c
 
 Since users will likely read a short description of your content first, include key phrases in the first 100 characters of post text. If the value of content can be communicated in the first few sentences, you’re on the right track.
 
-Providing content that is valuable to your audience is the ultimate goal and will keep them coming back. It’s the main reason that [content marketing](http://blog.hootsuite.com/what-is-content-marketing/) is so popular and successful when executed correctly. Ultimately, you can have the most optimized and well-designed page, but good content is not something anyone can “build” for you.
+Providing content that is valuable to your audience is the ultimate goal and will keep them coming back. It’s the main reason that content marketing is so popular and successful when executed correctly. Ultimately, you can have the most optimized and well-designed page, but good content is not something anyone can “build” for you.
 
 ### Appropriate On-Page Tags
 
