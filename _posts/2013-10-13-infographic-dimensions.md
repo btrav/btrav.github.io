@@ -21,7 +21,7 @@ Below is a (meta!) infographic detailing my findings.
 
 Before even starting out on Illustrator, I sketch out ideas on paper. Before that, I need to figure out what the orientation is going to be. After recording the dimensions of the most popular infographics on the web, I thought back to these first steps of the infographic design process. In the past, I’ve always chosen vertical (or portrait) orientation. How does this compare to the rest of infographics?
 
-It turns out 81% of the top creations I reviewed are also vertical, as opposed to horizontal orientation or square. A horizontal orientation may be preferable based on content or for horizontal-only tablet apps. But in today’s Facebook-centered, [infinite scroll](http://www.designyourway.net/blog/inspiration/when-to-use-infinite-scrolling-and-when-to-avoid-it)-addicted world, it’s not surprising that 4 out of every 5 infographics are vertical.
+It turns out 81% of the top creations I reviewed are also vertical, as opposed to horizontal orientation or square. A horizontal orientation may be preferable based on content or for horizontal-only tablet apps. But in today’s Facebook-centered, infinite scroll-addicted world, it’s not surprising that 4 out of every 5 infographics are vertical.
 
  
 
@@ -65,4 +65,4 @@ And a quick thanks to all the resources out there:
 
  
 
-P.S. When posting an infographic, be sure to fill in the alt text field of the image, allowing users with disabilities to understand the underlying premise of the infographic (whether you're talking about [space heaters](https://hvac.ninja/guides/space-heaters/), space invaders, or Space Jam), in addition to giving search engines a better idea of what’s included in the image — part of [SEO basics]({{ site.url }}/blog/healthy-seo).
+P.S. When posting an infographic, be sure to fill in the alt text field of the image, allowing users with disabilities to understand the underlying premise of the infographic (whether you're talking about [space heaters](https://hvac.ninja/guides/space-heaters/), space invaders, or [Space Jam](https://cado.io/space-jam-gifts/)), in addition to giving search engines a better idea of what’s included in the image — part of [SEO basics]({{ site.url }}/blog/healthy-seo).
