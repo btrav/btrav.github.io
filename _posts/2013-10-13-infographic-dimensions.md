@@ -65,4 +65,4 @@ And a quick thanks to all the resources out there:
 
  
 
-P.S. When posting an infographic, be sure to fill in the alt text field of the image, allowing users with disabilities to understand the underlying premise of the infographic (whether you're talking about [space heaters](https://hvac.ninja/guides/space-heaters/), space invaders, or [Space Jam](https://cado.io/space-jam-gifts/)), in addition to giving search engines a better idea of what’s included in the image — part of [SEO basics]({{ site.url }}/blog/healthy-seo).
+P.S. When posting an infographic, be sure to fill in the alt text field of the image, allowing users with disabilities to understand the underlying premise of the infographic (whether you're talking about [space heaters](https://hvac.ninja/guides/space-heaters/), [space invaders](https://cado.io/gifts-for-space-invaders-lovers/), or [Space Jam](https://cado.io/space-jam-gifts/)), in addition to giving search engines a better idea of what’s included in the image — part of [SEO basics]({{ site.url }}/blog/healthy-seo).
