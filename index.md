@@ -8,4 +8,4 @@ redirect_from:
 ## Strategy. Marketing. Analytics. Design.
 
 [Sometimes I write.]({{ site.url }}/blog)
-Currently working at [Bonusly](https://bonus.ly/).
+Alum of [Viget](https://viget.com/) and [Bonusly](https://bonus.ly/).
