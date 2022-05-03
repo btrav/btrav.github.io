@@ -8,7 +8,7 @@ permalink: blog/radical-candor
 
 Over the past couple years, I've enjoyed learning about people management, and the most impactful book I've read so far has been Kim Scott's [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.radicalcandor.com/). Fortunately, I was able to work with Kim directly in my previous role, hosting her for a webinar and collaborating with her on a [blog article](https://blog.bonus.ly/radical-candor) – so it's about time I summarize some of the most impactful parts.
 
-This post is mainly a reference for me, so I'd highly recommend you purchase the book itself (I've purchased multiple copies!) and _not_ rely on thsis summary or else you'll miss out on some important context.
+This post is mainly a reference for me, so I'd highly recommend you purchase the book itself (I've purchased multiple copies!) and _not_ rely on this summary or else you'll miss out on some important context.
 
 At the heart of the book is the philosophy of Radical Candor. [Look at it here.](https://www.radicalcandor.com/our-approach/) In a nutshell, good people managers foster an environment where they can be direct without being a jerk, balancing the need to challenge directly and care personally.
 
@@ -24,16 +24,16 @@ And to do this effectively requires both caring personally and challenging direc
 
 **Caring personally** means that part of your job as a manager is literally caring about your team on a personal level. That's natural to some people, but spelling it out like this helps make it top of mind. Navigating this in a work setting can sometime be difficult, but I've found that techniques like those in [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) are pretty timeless and help you when you're not sure where to go. It also means starting out by being vulnerable yourself and actively listening.
 
-**Challenging directly** is the other important aspect that can be difficult to master in a professional setting. Part of this feels natural to me when I tap into my "German" side, where being direct means being efficient. The way it feels _unnatural_ to me is when I immediately jump to the worst case scenario and don't want to unjustly hurt anyone's feelings. The big advantage here is that by challenging directly, you're able to move forward quickly and get everything out in the open, something that's absoutely necessary for innovative collaboration.
+**Challenging directly** is the other important aspect that can be difficult to master in a professional setting. Part of this feels natural to me when I tap into my "German" side, where being direct means being efficient. The way it feels _unnatural_ to me is when I immediately jump to the worst case scenario and don't want to unjustly hurt anyone's feelings. The big advantage here is that by challenging directly, you're able to move forward quickly and get everything out in the open, something that's absolutely necessary for innovative collaboration.
 
 By developing relationships, you can create the right kind of psychologically safe (and trusting) environment where it's possible to challenge directly.
 
-Also, note that Radical Candor isn't license to be a dick to other people. The [example of this philosophy](https://www.youtube.com/watch?v=V98MDswEl9Y) [lampooned in Silicon Valley](https://www.youtube.com/watch?v=sjTmIB6IUXw) is definitely in the "Obnoxious Aggression" or "Obnoxious Aggression" quadrants.
+Also, note that Radical Candor isn't license to be a dick to other people. The [example of this philosophy](https://www.youtube.com/watch?v=V98MDswEl9Y) [lampooned in Silicon Valley](https://www.youtube.com/watch?v=sjTmIB6IUXw) is definitely in the "Obnoxious Aggression" or "Manipulative Insincerity" quadrants.
 
 
 ### Understanding Motivations
 
-Understand what makes your team "tick" is an important aspect of being a manager. It's easy to fall into a trap thinking that everyone works the same way (or works the way you do), but everyone has unique wants, needs, and ambitions.
+Understanding what makes your team "tick" is an important aspect of being a manager. It's easy to fall into a trap thinking that everyone works the same way (or works the way you do), but everyone has unique wants, needs, and ambitions.
 
 Understanding motivations starts with a career conversation. One of my previous managers was excellent at Radical Candor and guided me through my first real "career conversation" – it put me a little outside my comfort zone at first, but I was super pleased with the result, and I ended up using that same model with my own direct reports with great success.
 
@@ -43,7 +43,7 @@ Career convos are great, and the best advice I can share is to just read this ar
 
 As another note on motivations, I've experienced success with CliftonStrengths (fomerly known as StrengthsFinder). Facilitating a team meeting using this framework can be a great way for folks to open up and identify with specific strengths and share how they relate to collaborating effectively together. Some people absolutely love it, some think it's a little hocus pocusy, but one thing I've found is that it sparks very productive conversations.
 
-My notes here kind of jump ahead in teh book and don't cover the Growth Framework shared, but I'd recommend taking a look at that, especially if you have direct reports that are either performing _extremely_ well or aren't performing well enough.
+My notes here kind of jump ahead in the book and don't cover the Growth Framework shared, but I'd recommend taking a look at that, especially if you have direct reports that are either performing _extremely_ well or aren't performing well enough.
 
 
 ### Driving Results
