@@ -5,7 +5,13 @@ redirect_from:
   - /project/why-do-cats-have-9-lives/
 ---
 
-## Strategy. Marketing. Analytics. Design.
+## Product. Strategy. Marketing. Design.
 
 [Sometimes I write.]({{ site.url }}/blog)
-Alum of [Viget](https://viget.com/) and [Bonusly](https://bonus.ly/).
+<br>
+<br>
+PM at [Dashlane](https://www.dashlane.com/).
+<br>
+Founder of [HR Chief](https://www.hrchief.com/) and [Agouta](https://agouta.com/).
+<br>
+Alum of [Viget](https://viget.com/), [Bonusly](https://bonus.ly/), and others.
