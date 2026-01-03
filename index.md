@@ -10,8 +10,8 @@ redirect_from:
 [Sometimes I write.]({{ site.url }}/blog)
 <br>
 <br>
-PM at [Dashlane](https://www.dashlane.com/).
+Product & Growth Leader at [Typeform](https://www.typeform.com/).
 <br>
 Founder of [HR Chief](https://www.hrchief.com/) and [Agouta](https://agouta.com/).
 <br>
-Alum of [Viget](https://viget.com/), [Bonusly](https://bonus.ly/), and others.
+Alum of [Viget](https://viget.com/), [Bonusly](https://bonus.ly/), [Dashlane](https://www.dashlane.com/), and others.
