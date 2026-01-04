@@ -10,7 +10,7 @@ redirect_from:
 [Sometimes I write.]({{ site.url }}/blog)
 <br>
 <br>
-Product & Growth Leader at [Typeform](https://www.typeform.com/).
+Product & growth leader at [Typeform](https://www.typeform.com/).
 <br>
 Founder of [HR Chief](https://www.hrchief.com/) and [Agouta](https://agouta.com/).
 <br>
