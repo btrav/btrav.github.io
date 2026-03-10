@@ -126,6 +126,8 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+  display: flex;
+  align-items: center;
 }
 
 .footer-col {
@@ -145,8 +147,8 @@
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: auto;
+  margin-left: auto;
 }
 
 @include media-query($on-laptop) {
@@ -167,6 +169,10 @@
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+
+  .footer-col-3 {
+    margin-left: 0;
   }
 }
 
