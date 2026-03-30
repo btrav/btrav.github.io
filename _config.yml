@@ -21,7 +21,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bmtravis
 github_username:  btrav
 linkedin_username:  benjamintravis
-instagram_username:  btravs
+bluesky_username: btravs.bsky.social
 timezone: America/Denver
 
 url: https://benjamintravis.com

@@ -7,7 +7,7 @@ redirect_from:
 
 ## Product. Strategy. Growth.
 
-[Sometimes I write.]({{ site.url }}/blog)
+[Sometimes I write.]({{ site.url }}/blog) [Sometimes I build.]({{ site.url }}/projects)
 <br>
 <br>
 Product and Growth leader at [Typeform](https://www.typeform.com/).
