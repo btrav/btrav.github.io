@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Claude Code for Product People: A Setup That Compounds"
+title:  "Claude Code for Product People: Setup and Mindset Shift"
 date:   2026-03-27
 categories:
 permalink: blog/claude-code-for-product-people
@@ -8,7 +8,7 @@ permalink: blog/claude-code-for-product-people
 
 It's Tuesday afternoon. An experiment you've been running for three weeks just hit statistical significance. The numbers are messier than you hoped. You have a growth review in two hours where you'll need to make a call. You also have a PRD to update, six tickets to create for the next iteration, and a release announcement to draft before end of day. Oh, and you just remembered you have to present your roadmap to the C-suite tomorrow morning.
 
-Welcome to PM life!
+_Welcome to PM life!_
 
 You open Notion, read the first readout, copy the key metric into a doc, open Jira, start a ticket, realize you need to check what the last epic covered, open another tab, lose the metric you just copied, and start again.
 
@@ -18,17 +18,15 @@ That's what Claude Code does for PMs. It doesn't generate text faster. No one ne
 
 Instead, it can work wonders if you use it to eliminate the steps that only exist because humans can't hold all of that in working memory at once: the context-switching, the copy-pasting, the re-reading a doc you've already read for that one sentence you know is there.
 
-# What is Claude Code?
+## What is Claude Code?
 
 It's a CLI tool you install in a terminal (or use in other places like VS Code). Setup takes about 15 minutes. Once it's running, you can connect it to your actual PM stack like your issue tracker, your docs platform, your comms tools, etc. From there, it reads and writes across all of them in a single session.
 
 And if you use it the right way, it can _actually_ transform how you (and your team) get work done. AI is shifting how Product teams work, and even though I've used LLMs since GPT-3, my "aha" (or "oh shit") moment came with my time using Claude Code since it's made me shift how I work.
 
-This post covers how to set it up, what the workflows look like in practice, and how to build a configuration that gets more useful over time. Not because the AI improves. Because the context you've given it does.
+This post covers how Product people can set it up, what the workflows look like in practice, and how to build a configuration that gets more useful over time. Not because the AI improves. Because the context you've given it does.
 
----
-
-## Why Claude Code is different for PMs
+### Why Claude Code is different for PMs
 
 If you've only seen Claude Code described as "a coding tool," that framing undersells it.
 
@@ -44,25 +42,22 @@ Where isn't it generally a good fit? Quick single-tool lookups, real-time collab
 
 One expectation to calibrate before we get to setup: Claude Code holds full context within a session. Cross-session memory (knowing your conventions, your active initiatives, how you prefer to write) requires a memory system you build and maintain. That's the next section, and it's where most of the long-term value actually comes from.
 
----
-
-## The three modes, and where most PMs get stuck
+### The three modes, and where most PMs get stuck
 
 Most PMs who try Claude Code use it as a document generator. You have a PRD to write, you describe what you need, Claude drafts it. Faster than starting from scratch. But you're still driving every step manually. That's mode one, and it's the lowest-leverage way to use the tool.
 
 There are three modes:
 
-**Document generator:** faster output, same manual orchestration. You're in control of every step, Claude fills in the blanks. Useful. Not transformative.
+* **Document generator:** faster output, same manual orchestration. You're in control of every step, Claude fills in the blanks. Useful. Not transformative.
 
-**Thinking partner:** you bring finished work; Claude interrogates it. Instead of asking Claude to write your PRD, you ask it to tear apart the one you've written: "What's missing? What's assumed without data? What would my most skeptical stakeholder push back on first?" The output isn't a draft. It's a stress-test before you walk into the room.
+* **Thinking partner:** you bring finished work; Claude interrogates it. Instead of asking Claude to write your PRD, you ask it to tear apart the one you've written: "What's missing? What's assumed without data? What would my most skeptical stakeholder push back on first?" The output isn't a draft. It's a stress-test before you walk into the room.
 
-**Workflow executor:** you define the goal, Claude handles the sequencing. It reads the right sources, produces the right outputs, in the right format. A competitive teardown that normally takes 90 minutes of tab-switching becomes a 10-minute session. This is where it stops feeling like a faster version of what you already do.
+* **Workflow executor:** you define the goal, Claude handles the sequencing. It reads the right sources, produces the right outputs, in the right format. A competitive teardown that normally takes 90 minutes of tab-switching becomes a 10-minute session. This is where it stops feeling like a faster version of what you already do.
 
 Most PMs stay stuck in mode one because modes two and three require setup. Not a lot. But specific setup. The rest of this post is that setup.
 
----
 
-## Setting up your environment
+### Setting up your environment
 
 The part most people skip is also the part that determines whether the setup compounds or plateaus by week two.
 
@@ -97,9 +92,7 @@ In some cases, a tool might not have an MCP, though working with APIs is great, 
 
 Now for repeatable workflows, you'll want to learn about skills.
 
----
-
-## Skills: one-command workflows
+### Skills: one-command workflows
 
 Skills are custom slash commands you define once and invoke whenever you need them. You build a /prd-review command (what it checks, how it's structured, what it flags), and from then on, typing /prd-review runs that exact review every time. They live as markdown files in your project directory, so they're easy to share and update as your team's conventions change.
 
@@ -124,9 +117,7 @@ Define a command that activates a critical lens on whatever you bring to it: "Wh
 
 That's the Skill that converts Claude from document generator to thinking partner as a standing default. No remembering to ask for it every time.
 
----
-
-## The sub-agent advantage
+### The sub-agent advantage
 
 What sets Claude Code apart from other AI tools is that it can run multiple perspectives simultaneously, each with access to your tools and files, not just parallel chat tabs. I absoultely love this.
 
@@ -150,9 +141,7 @@ The same pattern works in sequence. Run an agent to pressure-test a concept befo
 
 One thing that carries across all three: output quality scales with the context you've built. A current CLAUDE.md, maintained memory files, and the right integrations are the difference between useful and generic. Keep in mind that sub-agents inherit the context you've given Claude.
 
----
-
-## What this looks like in practice
+### What this looks like in practice
 
 The intro's Tuesday afternoon was a setup. Here's what it actually looks like once this is running.
 
@@ -174,9 +163,7 @@ This is the one that accumulates value fastest. Sprint planning doc. Weekly exec
 
 This is what compounding looks like in practice. It's not a dramatic time save on any single task per se, but quality is higher, content is more consistent, and it frees up your brain for things that need higher level thinking.
 
----
-
-## The team-level angle
+### The team-level angle
 
 Everything above applies to one PM. The more interesting question for leads: how do you raise the floor for the whole team?
 
@@ -190,9 +177,8 @@ A few things worth standardizing:
 
 One norm worth making explicit is if your PMs are using Claude to draft PRDs, to establish the expectation that they can defend every claim in the document without referring back to Claude. The goal is work that's faster and better reasoned. Claude handles the coordination. The PM still owns the thinking.
 
----
 
-## Making it compound, and keeping it that way
+### Making it compound, and keeping it that way
 
 The failure mode that actually ends adoption isn't a bad experience. It's slow drift.
 
@@ -204,9 +190,7 @@ Run /insights periodically to take stock of your actual usage. Which workflows a
 
 The compounding stops when the maintenance stops.
 
----
-
-## Pitfalls
+### Pitfalls
 
 A few things that reliably slow people down:
 
@@ -222,7 +206,7 @@ A few things that reliably slow people down:
 
 **Fighting the tool for the wrong task** The clearest signal of this is when you're spending more time prompting than the task would take to just do yourself. Stop and either rethink the prompt or rethink whether this is the right task for the tool.
 
----
+## Closing Thoughts
 
 What Claude Code removes are coordination costs, not thinking. Synthesis, context-holding, pulling together three Notion pages and a Jira epic into one coherent view: those are the steps that exist only because humans have limited working memory. When Claude handles them, what's left is the actual job: problem definition, judgment calls, stakeholder decisions, the work that requires a human.
 
