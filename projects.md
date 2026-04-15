@@ -8,6 +8,10 @@ permalink: /projects
 
 Small apps and tools I've built.
 
+[Reravel](https://chromewebstore.google.com/detail/reravel/njegbaolobokifbbefddegbmljgeoann) — A Chrome extension that uses visual and behavioral friction to make distracting websites boring
+
+[Claude Mini HUD](https://github.com/btrav/claude-mini-hud) — A minimal status HUD for Claude Code showing context window usage, rate limits, lines changed, and more
+
 [Rich Text to Markdown](https://benjamintravis.com/rich-text-to-markdown/) — A split-pane editor that converts rich text to Markdown
 
 [Spin to Speak](https://benjamintravis.com/spin-to-speak/) — An app to select who speaks next in a meeting
