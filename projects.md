@@ -6,7 +6,7 @@ permalink: /projects
 
 # Projects
 
-Small apps and tools I've built.
+Apps and tools I've built.
 
 [Reravel](https://chromewebstore.google.com/detail/reravel/njegbaolobokifbbefddegbmljgeoann) — A Chrome extension that uses visual and behavioral friction to make distracting websites boring
 

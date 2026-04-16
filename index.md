@@ -14,4 +14,4 @@ Product and Growth leader at [Typeform](https://www.typeform.com/).
 <br>
 Founder of [HR Chief](https://www.hrchief.com/) and [Agouta](https://agouta.com/).
 <br>
-Alum of [Viget](https://viget.com/), [Bonusly](https://bonus.ly/), [Dashlane](https://www.dashlane.com/), and others.
+Alum of [Dashlane](https://www.dashlane.com/), [Bonusly](https://bonus.ly/), [Viget](https://viget.com/), and others.
