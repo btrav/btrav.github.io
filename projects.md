@@ -18,7 +18,7 @@ Apps and tools I've built.
 
 [Lean Coffee](https://benjamintravis.com/lean-coffee/) — A tool to facilitate Coffee-style meetings
 
-[Riseling](https://benjamintravis.com/riseling/) — A fundraising progress image generator with custom shapes, colors, and multi-currency support
+[Riseling](https://benjamintravis.com/riseling/) — A fundraising progress image generator with custom layouts, colors, and other options
 
 [SaaS Clicker](https://benjamintravis.com/saas-clicker/) — An idle clicker game based on the SaaS industry
 
