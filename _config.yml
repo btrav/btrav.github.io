@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Ben Travis
 description: >- # this means to ignore new lines until "baseurl:"
-  Friede, Freude, Eierkuchen.
+  Product and Growth leader. PLG, monetization, and experimentation across consumer and B2B SaaS.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bmtravis
