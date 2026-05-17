@@ -23,3 +23,5 @@ Apps and tools I've built.
 [SaaS Clicker](https://benjamintravis.com/saas-clicker/) — An idle clicker game based on the SaaS industry
 
 [Kid Mash](https://benjamintravis.com/kid-mash/) — A kid-friendly browser experience that turns keyboard presses and mouseclicks into fun
+
+[Hancock](https://benjamintravis.com/hancock/) — A browser-based signature generator with draw and type modes, no signup or watermark
