@@ -24,6 +24,11 @@ linkedin_username:  benjamintravis
 bluesky_username: btravs.bsky.social
 timezone: America/Denver
 
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+
 url: https://benjamintravis.com
 
 # Build settings
