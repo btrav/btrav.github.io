@@ -12,6 +12,6 @@ redirect_from:
 <br>
 Product and Growth leader.
 <br>
-Founder of [HR Chief](https://www.hrchief.com/) and [Agouta](https://agouta.com/).
+Founder of [HR Chief](https://www.hrchief.com/) and [Agouta](https://agouta.com/). Advisor to [Elly](https://www.elly.ai/).
 <br>
 Alum of [Typeform](https://www.typeform.com/), [Dashlane](https://www.dashlane.com/), [Bonusly](https://bonus.ly/), [Viget](https://viget.com/), and others.
